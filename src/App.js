@@ -42,7 +42,7 @@ const App = () => {
         description:
           "Designed an autonomous robot using Arduino UNO, IR Sensors, and motor drivers to solve mazes. Outperformed 50+ teams, ranked top 12 out of 60+ teams in Rat In Maze competition. Demonstrated path-finding logic, sensor-based decision making, and collaborative teamwork.",
         technologies: ["Arduino UNO", "IR Sensors", "Motor Drivers", "C++"],
-        link: "#", 
+        link: "https://github.com/manvendra47/Rat_in_a_maze_project", 
       },
     ],
     contact: {
